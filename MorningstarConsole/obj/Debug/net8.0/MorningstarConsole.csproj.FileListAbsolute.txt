@@ -1,0 +1,14 @@
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/bin/Debug/net8.0/MorningstarConsole
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/bin/Debug/net8.0/MorningstarConsole.deps.json
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/bin/Debug/net8.0/MorningstarConsole.runtimeconfig.json
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/bin/Debug/net8.0/MorningstarConsole.dll
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/bin/Debug/net8.0/MorningstarConsole.pdb
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.AssemblyInfoInputs.cache
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.AssemblyInfo.cs
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.csproj.CoreCompileInputs.cache
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.dll
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/refint/MorningstarConsole.dll
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.pdb
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/MorningstarConsole.genruntimeconfig.cache
+/Users/jakob/dev/MornginstarOA/MorningstarConsole/obj/Debug/net8.0/ref/MorningstarConsole.dll

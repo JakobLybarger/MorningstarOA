@@ -1,0 +1,6 @@
+@MorningstarOA_HostAddress = http://localhost:5221
+
+GET {{MorningstarOA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
