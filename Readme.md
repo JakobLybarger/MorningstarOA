@@ -16,7 +16,7 @@ dotnet restore
 dotnet run
 ```
 
-4. Navigate to the client project and run the app
+4. Navigate to the client project and run the app in a different terminal window
 ```bash
 cd ../MorningstarConsole
 dotnet run
